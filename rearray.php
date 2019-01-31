@@ -1,3 +1,5 @@
+<?php
+
 function reArrayFiles(&$file_post) {
 
     $file_ary = array();
